@@ -22,3 +22,5 @@ Thumbs.db
 *.swp
 *.swo
 .vs/
+/.vs/Azzy.slnx/v18/.wsuo
+/.vs/slnx.sqlite

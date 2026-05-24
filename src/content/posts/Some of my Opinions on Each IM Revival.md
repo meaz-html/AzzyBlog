@@ -18,3 +18,19 @@ Moving on, here are my opinions on each IM Revivals:
 That's all the revivals I use, Two isn't much, but soon, I might give insight into the Nina/Escargot Drama on my blog.
 
 Bye for now!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

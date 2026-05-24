@@ -36,3 +36,19 @@ Its really sad, for me (i am on flirb) and for the flirb community, I joined in 
 Anyways, That's all for today, I will be trialing something that i will be moving this blog to (even though I started this blog with 3-4 posts), i will be updating about it here,
 
 Thanks for Reading and See ya in the next one!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

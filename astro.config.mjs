@@ -10,3 +10,7 @@ export default defineConfig({
     },
   },
 });
+
+// @ts-check
+import favicons from "astro-favicons";
+    integrations: [favicons()]

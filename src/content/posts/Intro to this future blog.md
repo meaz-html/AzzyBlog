@@ -12,3 +12,19 @@ Hi Everyone! I have been in the Vivaldi Community since April 2025 and I wanted 
 Kazuno/Ahyan Z
 
 Find me at gravatar.com/stellarcapricorn !
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

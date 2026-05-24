@@ -10,3 +10,19 @@ Hello Everyone, I have officially bought a domain for my website (azzyaz.net), b
 These are my 2 options above, but i bought a domain, and i can transfer it (after 96 hours, as of writing this post, i just bought it).
 
 So yeah, nothing amazing here, but see you in my next post!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

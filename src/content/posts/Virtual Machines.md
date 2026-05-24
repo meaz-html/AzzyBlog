@@ -64,3 +64,19 @@ Oracle VirtualBox Manager on Windows
 </figure>
 
 That hopefully sums up about Virtual Machines, but i will see you in the next post!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

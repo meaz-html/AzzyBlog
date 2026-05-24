@@ -20,3 +20,19 @@ My other reasons is that:
 However, even though it is losing well-known projects, there are 2-3 projects popping up (most coming soon) and its a little great progress, so this might be irrelevant, some i have on my revival lists, but soon i might add some more to it.
 
 Anyway, this was just a little rant on why I think the retro community is dying, i will see you in my next post.
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

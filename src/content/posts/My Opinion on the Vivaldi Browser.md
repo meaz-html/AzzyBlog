@@ -90,3 +90,19 @@ So overall, the features of Vivaldi as we have talked about are:
 I would say about Vivaldi in general, it is a very customizable, productive and Privacy Based browser (though of course, it is based on Chromium)
 
 That is all for this post, i will see you soon in my next post.
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

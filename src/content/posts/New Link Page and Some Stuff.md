@@ -18,3 +18,19 @@ You might notice that the About page on here is the same as on the other site, t
 Anyways, again, I am really sorry for not posting much as I am tight on some stuff happening right now, but I will write as much as I can (and probably update the repo sometimes too), but now, see you in my next post (if there is).
 
 Update (28/03/26): Added the SimpleLinks Repo on there
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

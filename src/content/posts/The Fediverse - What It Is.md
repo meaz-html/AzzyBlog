@@ -42,3 +42,19 @@ Now, if you decided that you would like to try, you would notice that you would 
 It wasn't much to explain about the fediverse, i am only making a comeback after such long, but if you are interested in the fediverse, you can visit [this site](https://jointhefediverse.net/join?lang=en-us) to check out the alternatives they have on there, you can use both non-fedi and fedi, or you can choose to switch to the fediverse altogether, you can also check out [this site](https://fedidb.com/servers) to look for servers for fediverse services like Mastodon or Misskey.
 
 Anyways, I will see you in the next post!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

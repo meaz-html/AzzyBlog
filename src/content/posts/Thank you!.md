@@ -12,3 +12,19 @@ Hello Everyone! I would like to say thank you for the 25 views and the 22 visito
 I am sorry that i have not been posting retro tech/general tech related stuff here, i have been busy, but i will try my best to write here.
 
 See you in my next blog post!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -34,3 +34,19 @@ So there are options for getting away from Big Tech, but the important thing is,
 In the End, you can escape Big Tech by either the 3 options i have mentioned earlier, it takes time, but soon, i will conduct a list of more privacy-focused alternatives to Google Products, but it isn't just Google to be pinned, its also Microsoft and Meta, their actions combined are disgusting too, it will be available on the site soon.
 
 Anyways, i will see you in the next post!
+
+<script src="https://giscus.app/client.js"
+        data-repo="meaz-html/AzzyBlog"
+        data-repo-id="R_kgDOSAI7tQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSAI7tc4C9wd6"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

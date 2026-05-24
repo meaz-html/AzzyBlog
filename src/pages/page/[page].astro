@@ -16,11 +16,11 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<Layout title={`Page ${page.currentPage} — UINUX Blog`}>
+<Layout title={`Page ${page.currentPage} — Azzy`}>
   <section class="home">
     <header class="home-header">
-      <Heading as="h1">UINUX Blog</Heading>
-      <p class="home-tagline">Writing about systems, design, and building with restraint.</p>
+      <Heading as="h1">Azzy</Heading>
+      <p class="home-tagline">Tech stuff, and more</p>
     </header>
     <ul class="post-list">
       {page.data.map((post) => {
