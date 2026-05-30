@@ -14,11 +14,11 @@ Kazuno/Ahyan Z
 Find me at gravatar.com/stellarcapricorn !
 
 <script src="https://giscus.app/client.js"
-        data-repo="meaz-html/AzzyBlog"
+        data-repo="AzzyAz-net/AzzyBlog"
         data-repo-id="R_kgDOSAI7tQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOSAI7tc4C9wd6"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"

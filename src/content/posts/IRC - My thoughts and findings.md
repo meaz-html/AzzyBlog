@@ -30,13 +30,12 @@ From my own findings, you cannot connect two different devices, with a different
 Another thing i found, IRC Servers are not federated, they use the same protocol of course, but it's not like i can join a channel from freenode on libera unlike ActivityPub where its federated and I can like/comment on a Mastodon post from Bluesky (its weird, but i am not sure that's happening right now).
 
 In the End, IRC is a great alternative to Discord, but it has its downsides, like unreliable servers or DDos attacks, but remember, you can host your own, it's just hard work to do it. But i will see you in my next post!
-
 <script src="https://giscus.app/client.js"
-        data-repo="meaz-html/AzzyBlog"
+        data-repo="AzzyAz-net/AzzyBlog"
         data-repo-id="R_kgDOSAI7tQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOSAI7tc4C9wd6"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"

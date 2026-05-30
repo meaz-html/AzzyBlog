@@ -88,11 +88,11 @@ Anyways, I will see you soon in another post sooner or later. See you soon!
 PS: Im continually updating this post, if you think something is wrong or if you want to add on, email me at plagg@chivanet.org
 
 <script src="https://giscus.app/client.js"
-        data-repo="meaz-html/AzzyBlog"
+        data-repo="AzzyAz-net/AzzyBlog"
         data-repo-id="R_kgDOSAI7tQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOSAI7tc4C9wd6"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"

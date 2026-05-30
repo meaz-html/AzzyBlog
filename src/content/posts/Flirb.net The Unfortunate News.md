@@ -26,11 +26,11 @@ You can now find me at [hjonk](https://hjonk.me/@kazuno) and other socials on my
 This was a quick (and sad) update to flirb, anyways, good night and i will see you in my next post.
 
 <script src="https://giscus.app/client.js"
-        data-repo="meaz-html/AzzyBlog"
+        data-repo="AzzyAz-net/AzzyBlog"
         data-repo-id="R_kgDOSAI7tQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOSAI7tc4C9wd6"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"

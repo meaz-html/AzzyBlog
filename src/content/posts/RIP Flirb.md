@@ -38,11 +38,11 @@ Anyways, That's all for today, I will be trialing something that i will be movin
 Thanks for Reading and See ya in the next one!
 
 <script src="https://giscus.app/client.js"
-        data-repo="meaz-html/AzzyBlog"
+        data-repo="AzzyAz-net/AzzyBlog"
         data-repo-id="R_kgDOSAI7tQ"
         data-category="Announcements"
         data-category-id="DIC_kwDOSAI7tc4C9wd6"
-        data-mapping="pathname"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
